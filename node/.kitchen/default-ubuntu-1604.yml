@@ -1,6 +1,0 @@
----
-hostname: 127.0.0.1
-port: '2222'
-username: ubuntu
-ssh_key: "/home/brasilct/learningchef/node/.kitchen/kitchen-vagrant/kitchen-node-default-ubuntu-1604/.vagrant/machines/default/virtualbox/private_key"
-last_action: setup

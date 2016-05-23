@@ -143,69 +143,71 @@
             }
           ],
           "neighbour_inet6": {
-            "fe80::c821:c8a5:f7ee:b297": "c8:9c:dc:45:36:6f",
-            "fe80::c5e4:a325:57cd:99ca": "34:64:a9:09:a9:54",
             "fe80::89db:54d:626a:c820": "00:15:c5:36:15:69",
-            "fe80::b597:56ba:aec3:7f6": "00:18:8b:e1:23:d0",
-            "fe80::9579:9895:5af0:e888": "d8:97:ba:c6:f7:fe",
-            "fe80::697d:9bfa:ce5c:b39a": "c4:e9:84:02:93:55",
-            "fe80::58d3:61ad:76fa:498c": "08:9e:01:39:0d:62",
-            "fe80::fdf7:6031:5da2:4ffc": "08:9e:01:38:cf:51",
-            "fe80::fc1f:a3ca:5d02:db90": "f0:4d:a2:e3:cd:be",
-            "fe80::400:2a8d:c962:2508": "10:c3:7b:c1:ef:ad",
-            "fe80::6c15:6c92:888b:ec57": "d8:50:e6:eb:01:fd",
-            "fe80::c51f:e7f7:f08f:7ba7": "44:8a:5b:6a:b8:0e",
-            "fe80::951f:e18d:d863:c8c0": "34:64:a9:09:a9:5a",
             "fe80::4c4:8f8d:8754:b3e9": "10:c3:7b:c2:0e:f3",
-            "fe80::d961:6c01:c41e:fa1a": "10:c3:7b:c1:5f:75",
-            "fe80::b578:75a0:be16:1c88": "00:1e:c9:21:0b:16",
-            "fe80::61b1:d696:95d5:cf8b": "64:1c:67:78:42:da",
-            "fe80::498d:638:6014:eb73": "1c:39:47:54:70:52",
-            "fe80::c063:4810:f2c0:803a": "64:1c:67:7b:32:f4",
-            "fe80::c819:ee8a:e8fa:994c": "10:c3:7b:c1:f4:30",
-            "fe80::201a:4088:a271:851f": "d8:97:ba:e5:52:01",
-            "fe80::7dc2:e32c:d8be:bca9": "d8:97:ba:c6:f4:1e",
-            "fe80::a58c:9187:7927:d924": "44:8a:5b:6a:bb:58",
             "fe80::5ea:2371:88d5:a7ac": "40:16:7e:9f:cb:9e",
-            "fe80::108d:f302:c986:4459": "84:2b:2b:7a:f1:4f",
-            "fe80::b8ed:93f:6b9a:c4ea": "d8:97:ba:c6:f3:14",
-            "fe80::ddbb:f193:d547:3175": "1c:39:47:54:70:0e",
-            "fe80::4875:26ec:79ce:973e": "80:ee:73:66:a2:e1",
-            "fe80::a022:938d:1219:737": "28:d2:44:7a:c6:54",
-            "fe80::9cf:7258:6365:77ce": "10:c3:7b:c1:e4:b3",
-            "fe80::e55e:378b:d7de:f26c": "44:8a:5b:6a:bb:26",
-            "fe80::3dcf:553d:39c8:dc8a": "d8:97:ba:c6:f0:39",
-            "fe80::924:26b6:e89d:6020": "44:8a:5b:6a:bb:76",
-            "fe80::9d72:b162:b2d7:9d0e": "64:1c:67:7a:91:ee",
-            "fe80::c12f:423c:45c7:739b": "d8:97:ba:c6:f5:db",
-            "fe80::185c:3922:7f20:2b5c": "c8:9c:dc:45:30:88",
-            "fe80::38f3:e960:273f:e9b5": "40:16:7e:a0:98:6b",
-            "fe80::f16f:462b:2fc9:8671": "10:c3:7b:c1:ef:45",
             "fe80::1dd:3660:7f6d:c3b9": "34:64:a9:09:a9:61",
-            "fe80::d4a7:ec35:2f7:8373": "40:16:7e:9c:dd:8b",
-            "fe80::dc7d:6bf3:3de7:de13": "d8:97:ba:c6:f2:42",
-            "fe80::8cbe:c9a5:994d:8c26": "1c:39:47:54:6f:e5",
-            "fe80::1555:c988:d623:96bd": "84:2b:2b:7a:f0:ef",
-            "fe80::adfc:405:2e89:b974": "d8:97:ba:c6:f2:31",
-            "fe80::c8a9:511b:2b92:32fb": "84:2b:2b:7a:f0:e4",
-            "fe80::2118:cfec:79c:1f0e": "64:1c:67:78:db:f3",
-            "fe80::4862:a8b4:13ab:15dd": "84:2b:2b:7a:f1:4e",
+            "fe80::e55e:378b:d7de:f26c": "44:8a:5b:6a:bb:26",
             "fe80::5934:b7bf:8248:926d": "b8:88:e3:c2:1c:3c",
-            "fe80::9c5e:458d:1097:db25": "34:e6:d7:fc:99:0c",
-            "fe80::6852:6324:edf4:3af7": "78:2b:cb:bd:a3:f0",
-            "fe80::4d51:3521:f4b6:336": "00:15:c5:35:db:d9",
-            "fe80::70b0:5e28:3f5c:81b1": "ec:a8:6b:bb:4c:12",
-            "fe80::90fb:6b2c:65ee:aaee": "d8:97:ba:c7:18:05",
-            "fe80::94b5:81ec:f1e3:ccf0": "00:71:c2:15:cb:98",
-            "fe80::5d68:d11c:4c30:284c": "f0:4d:a2:e5:ce:32",
-            "fe80::b5ca:b944:fc10:69ef": "64:1c:67:7b:3c:d3",
-            "fe80::594:3014:22dd:66a9": "00:18:8b:df:25:c1",
-            "fe80::415a:39d2:89e4:6abb": "00:23:ae:ba:95:e2",
+            "fe80::d4a7:ec35:2f7:8373": "40:16:7e:9c:dd:8b",
             "fe80::c819:d44f:58d2:bb0f": "80:ee:73:67:33:59",
+            "fe80::649b:24bf:9f3f:e47b": "00:23:ae:ba:89:2f",
+            "fe80::94b5:81ec:f1e3:ccf0": "00:71:c2:15:cb:98",
+            "fe80::f4e0:c655:1bdf:f21": "40:16:7e:9f:cc:c6",
+            "fe80::fdf7:6031:5da2:4ffc": "08:9e:01:38:cf:51",
+            "fe80::b8ed:93f:6b9a:c4ea": "d8:97:ba:c6:f3:14",
+            "fe80::61b1:d696:95d5:cf8b": "64:1c:67:78:42:da",
+            "fe80::8cbe:c9a5:994d:8c26": "1c:39:47:54:6f:e5",
+            "fe80::3dcf:553d:39c8:dc8a": "d8:97:ba:c6:f0:39",
+            "fe80::adfc:405:2e89:b974": "d8:97:ba:c6:f2:31",
+            "fe80::9c5e:458d:1097:db25": "34:e6:d7:fc:99:0c",
+            "fe80::4875:26ec:79ce:973e": "80:ee:73:66:a2:e1",
+            "fe80::1555:c988:d623:96bd": "84:2b:2b:7a:f0:ef",
+            "fe80::594:3014:22dd:66a9": "00:18:8b:df:25:c1",
+            "fe80::498d:638:6014:eb73": "1c:39:47:54:70:52",
+            "fe80::4862:a8b4:13ab:15dd": "84:2b:2b:7a:f1:4e",
+            "fe80::6c15:6c92:888b:ec57": "d8:50:e6:eb:01:fd",
+            "fe80::c5e4:a325:57cd:99ca": "34:64:a9:09:a9:54",
+            "fe80::951f:e18d:d863:c8c0": "34:64:a9:09:a9:5a",
+            "fe80::400:2a8d:c962:2508": "10:c3:7b:c1:ef:ad",
+            "fe80::c819:ee8a:e8fa:994c": "10:c3:7b:c1:f4:30",
             "fe80::b541:ce02:672c:aaa7": "84:2b:2b:7a:f0:e9",
+            "fe80::201a:4088:a271:851f": "d8:97:ba:e5:52:01",
+            "fe80::c063:4810:f2c0:803a": "64:1c:67:7b:32:f4",
+            "fe80::a58c:9187:7927:d924": "44:8a:5b:6a:bb:58",
+            "fe80::5d68:d11c:4c30:284c": "f0:4d:a2:e5:ce:32",
+            "fe80::c121:6614:e6cd:e3d9": "00:18:8b:df:e2:71",
+            "fe80::90fb:6b2c:65ee:aaee": "d8:97:ba:c7:18:05",
+            "fe80::d961:6c01:c41e:fa1a": "10:c3:7b:c1:5f:75",
+            "fe80::ddbb:f193:d547:3175": "1c:39:47:54:70:0e",
+            "fe80::4d51:3521:f4b6:336": "00:15:c5:35:db:d9",
+            "fe80::c821:c8a5:f7ee:b297": "c8:9c:dc:45:36:6f",
+            "fe80::fc1f:a3ca:5d02:db90": "f0:4d:a2:e3:cd:be",
+            "fe80::415a:39d2:89e4:6abb": "00:23:ae:ba:95:e2",
+            "fe80::b5ca:b944:fc10:69ef": "64:1c:67:7b:3c:d3",
+            "fe80::108d:f302:c986:4459": "84:2b:2b:7a:f1:4f",
+            "fe80::1054:9f1a:e63b:731": "00:71:c2:15:cb:34",
+            "fe80::5032:18d:f88a:4dc7": "8c:dc:d4:ca:f7:fa",
+            "fe80::9579:9895:5af0:e888": "d8:97:ba:c6:f7:fe",
+            "fe80::924:26b6:e89d:6020": "44:8a:5b:6a:bb:76",
+            "fe80::c51f:e7f7:f08f:7ba7": "44:8a:5b:6a:b8:0e",
+            "fe80::697d:9bfa:ce5c:b39a": "c4:e9:84:02:93:55",
+            "fe80::70b0:5e28:3f5c:81b1": "ec:a8:6b:bb:4c:12",
+            "fe80::dc7d:6bf3:3de7:de13": "d8:97:ba:c6:f2:42",
+            "fe80::9cf:7258:6365:77ce": "10:c3:7b:c1:e4:b3",
+            "fe80::7067:a254:b167:34c3": "00:1a:a0:06:71:39",
+            "fe80::7dc2:e32c:d8be:bca9": "d8:97:ba:c6:f4:1e",
+            "fe80::185c:3922:7f20:2b5c": "c8:9c:dc:45:30:88",
+            "fe80::58d3:61ad:76fa:498c": "08:9e:01:39:0d:62",
+            "fe80::2118:cfec:79c:1f0e": "64:1c:67:78:db:f3",
+            "fe80::9d72:b162:b2d7:9d0e": "64:1c:67:7a:91:ee",
+            "fe80::c8a9:511b:2b92:32fb": "84:2b:2b:7a:f0:e4",
+            "fe80::f16f:462b:2fc9:8671": "10:c3:7b:c1:ef:45",
+            "fe80::6852:6324:edf4:3af7": "78:2b:cb:bd:a3:f0",
+            "fe80::c12f:423c:45c7:739b": "d8:97:ba:c6:f5:db",
             "fe80::881c:c9d9:91a8:e685": "34:e6:d7:fc:be:52",
-            "fe80::48dc:444d:315f:dcb6": "00:1e:c9:21:57:75",
-            "fe80::c121:6614:e6cd:e3d9": "00:18:8b:df:e2:71"
+            "fe80::b597:56ba:aec3:7f6": "00:18:8b:e1:23:d0",
+            "fe80::b578:75a0:be16:1c88": "00:1e:c9:21:0b:16"
           },
           "link_speed": 100,
           "duplex": "Full",
@@ -280,16 +282,16 @@
           "lo": {
             "tx": {
               "queuelen": "1",
-              "bytes": "31783673",
-              "packets": "190532",
+              "bytes": "110369677",
+              "packets": "832669",
               "errors": "0",
               "drop": "0",
               "carrier": "0",
               "collisions": "0"
             },
             "rx": {
-              "bytes": "31783673",
-              "packets": "190532",
+              "bytes": "110369677",
+              "packets": "832669",
               "errors": "0",
               "drop": "0",
               "overrun": "0"
@@ -298,16 +300,16 @@
           "enp2s0": {
             "tx": {
               "queuelen": "1000",
-              "bytes": "57050897",
-              "packets": "657932",
+              "bytes": "108804007",
+              "packets": "1097712",
               "errors": "0",
               "drop": "0",
               "carrier": "0",
               "collisions": "0"
             },
             "rx": {
-              "bytes": "1672139487",
-              "packets": "1919077",
+              "bytes": "2355107789",
+              "packets": "4587038",
               "errors": "0",
               "drop": "0",
               "overrun": "0"
@@ -316,16 +318,16 @@
           "wlp3s0": {
             "tx": {
               "queuelen": "1000",
-              "bytes": "258582",
-              "packets": "1670",
+              "bytes": "1162518",
+              "packets": "7367",
               "errors": "0",
               "drop": "0",
               "carrier": "0",
               "collisions": "0"
             },
             "rx": {
-              "bytes": "1100503",
-              "packets": "9347",
+              "bytes": "2997443",
+              "packets": "20499",
               "errors": "0",
               "drop": "0",
               "overrun": "0"
@@ -338,28 +340,28 @@
     "macaddress": "1C:39:47:52:D7:D2",
     "memory": {
       "swap": {
-        "cached": "97176kB",
+        "cached": "185248kB",
         "total": "17577980kB",
-        "free": "16045620kB"
+        "free": "15339172kB"
       },
       "total": "8092776kB",
-      "free": "89636kB",
-      "buffers": "33260kB",
-      "cached": "756184kB",
-      "active": "5588428kB",
-      "inactive": "1228724kB",
-      "dirty": "196kB",
+      "free": "504896kB",
+      "buffers": "152320kB",
+      "cached": "1008248kB",
+      "active": "5014712kB",
+      "inactive": "1341060kB",
+      "dirty": "428kB",
       "writeback": "0kB",
-      "anon_pages": "5946120kB",
-      "mapped": "1501016kB",
-      "slab": "136240kB",
-      "slab_reclaimable": "69292kB",
-      "slab_unreclaim": "66948kB",
-      "page_tables": "105384kB",
+      "anon_pages": "5161940kB",
+      "mapped": "1496724kB",
+      "slab": "155252kB",
+      "slab_reclaimable": "83936kB",
+      "slab_unreclaim": "71316kB",
+      "page_tables": "92308kB",
       "nfs_unstable": "0kB",
       "bounce": "0kB",
       "commit_limit": "21624368kB",
-      "committed_as": "21355220kB",
+      "committed_as": "18789460kB",
       "vmalloc_total": "34359738367kB",
       "vmalloc_used": "0kB",
       "vmalloc_chunk": "0kB"
@@ -371,7 +373,7 @@
         "model": "61",
         "model_name": "Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz",
         "stepping": "4",
-        "mhz": "2569.875",
+        "mhz": "2886.375",
         "cache_size": "4096 KB",
         "physical_id": "0",
         "core_id": "0",
@@ -481,7 +483,7 @@
         "model": "61",
         "model_name": "Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz",
         "stepping": "4",
-        "mhz": "2468.718",
+        "mhz": "2917.125",
         "cache_size": "4096 KB",
         "physical_id": "0",
         "core_id": "1",
@@ -591,7 +593,7 @@
         "model": "61",
         "model_name": "Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz",
         "stepping": "4",
-        "mhz": "2408.156",
+        "mhz": "2881.406",
         "cache_size": "4096 KB",
         "physical_id": "0",
         "core_id": "0",
@@ -701,7 +703,7 @@
         "model": "61",
         "model_name": "Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz",
         "stepping": "4",
-        "mhz": "2607.000",
+        "mhz": "2969.156",
         "cache_size": "4096 KB",
         "physical_id": "0",
         "core_id": "1",
@@ -992,7 +994,7 @@
         },
         "snd_hda_intel": {
           "size": "36864",
-          "refcount": "7"
+          "refcount": "5"
         },
         "crct10dif_pclmul": {
           "size": "16384",
@@ -1064,7 +1066,7 @@
         },
         "snd_pcm": {
           "size": "106496",
-          "refcount": "5"
+          "refcount": "4"
         },
         "glue_helper": {
           "size": "16384",
@@ -1104,7 +1106,7 @@
         },
         "snd": {
           "size": "81920",
-          "refcount": "24"
+          "refcount": "21"
         },
         "input_leds": {
           "size": "16384",
@@ -1368,7 +1370,7 @@
         },
         "drm": {
           "size": "360448",
-          "refcount": "9"
+          "refcount": "12"
         },
         "ahci": {
           "size": "36864",
@@ -1445,8 +1447,8 @@
         "percent_used": "0%",
         "mount": "/dev",
         "total_inodes": "1006818",
-        "inodes_used": "608",
-        "inodes_available": "1006210",
+        "inodes_used": "605",
+        "inodes_available": "1006213",
         "inodes_percent_used": "1%",
         "fs_type": "devtmpfs",
         "mount_options": [
@@ -1460,13 +1462,13 @@
       },
       "tmpfs": {
         "kb_size": "809280",
-        "kb_used": "56",
-        "kb_available": "809224",
+        "kb_used": "64",
+        "kb_available": "809216",
         "percent_used": "1%",
         "mount": "/run/user/1000",
         "total_inodes": "1011597",
-        "inodes_used": "32",
-        "inodes_available": "1011565",
+        "inodes_used": "34",
+        "inodes_available": "1011563",
         "inodes_percent_used": "1%",
         "fs_type": "tmpfs",
         "mount_options": [
@@ -1482,13 +1484,13 @@
       },
       "/dev/sda3": {
         "kb_size": "47929956",
-        "kb_used": "13233500",
-        "kb_available": "32238668",
-        "percent_used": "30%",
+        "kb_used": "13099332",
+        "kb_available": "32372836",
+        "percent_used": "29%",
         "mount": "/",
         "total_inodes": "3055616",
-        "inodes_used": "452245",
-        "inodes_available": "2603371",
+        "inodes_used": "452675",
+        "inodes_available": "2602941",
         "inodes_percent_used": "15%",
         "fs_type": "ext4",
         "mount_options": [
@@ -1501,13 +1503,13 @@
       },
       "/dev/sda6": {
         "kb_size": "895316600",
-        "kb_used": "79429484",
-        "kb_available": "770384604",
+        "kb_used": "79749984",
+        "kb_available": "770064104",
         "percent_used": "10%",
         "mount": "/home",
         "total_inodes": "56860672",
-        "inodes_used": "481191",
-        "inodes_available": "56379481",
+        "inodes_used": "483804",
+        "inodes_available": "56376868",
         "inodes_percent_used": "1%",
         "fs_type": "ext4",
         "mount_options": [
@@ -1705,8 +1707,8 @@
           "kb_available": "4027272",
           "percent_used": "0%",
           "total_inodes": "1006818",
-          "inodes_used": "608",
-          "inodes_available": "1006210",
+          "inodes_used": "605",
+          "inodes_available": "1006213",
           "inodes_percent_used": "1%",
           "fs_type": "devtmpfs",
           "mount_options": [
@@ -1723,12 +1725,12 @@
         },
         "tmpfs": {
           "kb_size": "809280",
-          "kb_used": "56",
-          "kb_available": "809224",
+          "kb_used": "64",
+          "kb_available": "809216",
           "percent_used": "1%",
           "total_inodes": "1011597",
-          "inodes_used": "32",
-          "inodes_available": "1011565",
+          "inodes_used": "34",
+          "inodes_available": "1011563",
           "inodes_percent_used": "1%",
           "fs_type": "tmpfs",
           "mount_options": [
@@ -1751,12 +1753,12 @@
         },
         "/dev/sda3": {
           "kb_size": "47929956",
-          "kb_used": "13233500",
-          "kb_available": "32238668",
-          "percent_used": "30%",
+          "kb_used": "13099332",
+          "kb_available": "32372836",
+          "percent_used": "29%",
           "total_inodes": "3055616",
-          "inodes_used": "452245",
-          "inodes_available": "2603371",
+          "inodes_used": "452675",
+          "inodes_available": "2602941",
           "inodes_percent_used": "15%",
           "fs_type": "ext4",
           "mount_options": [
@@ -1772,12 +1774,12 @@
         },
         "/dev/sda6": {
           "kb_size": "895316600",
-          "kb_used": "79429484",
-          "kb_available": "770384604",
+          "kb_used": "79749984",
+          "kb_available": "770064104",
           "percent_used": "10%",
           "total_inodes": "56860672",
-          "inodes_used": "481191",
-          "inodes_available": "56379481",
+          "inodes_used": "483804",
+          "inodes_available": "56376868",
           "inodes_percent_used": "1%",
           "fs_type": "ext4",
           "mount_options": [
@@ -2028,8 +2030,8 @@
           "kb_available": "4027272",
           "percent_used": "0%",
           "total_inodes": "1006818",
-          "inodes_used": "608",
-          "inodes_available": "1006210",
+          "inodes_used": "605",
+          "inodes_available": "1006213",
           "inodes_percent_used": "1%",
           "fs_type": "devtmpfs",
           "mount_options": [
@@ -2046,12 +2048,12 @@
         },
         "/run": {
           "kb_size": "809280",
-          "kb_used": "10052",
-          "kb_available": "799228",
+          "kb_used": "10060",
+          "kb_available": "799220",
           "percent_used": "2%",
           "total_inodes": "1011597",
-          "inodes_used": "939",
-          "inodes_available": "1010658",
+          "inodes_used": "941",
+          "inodes_available": "1010656",
           "inodes_percent_used": "1%",
           "fs_type": "tmpfs",
           "mount_options": [
@@ -2068,12 +2070,12 @@
         },
         "/": {
           "kb_size": "47929956",
-          "kb_used": "13233500",
-          "kb_available": "32238668",
-          "percent_used": "30%",
+          "kb_used": "13099332",
+          "kb_available": "32372836",
+          "percent_used": "29%",
           "total_inodes": "3055616",
-          "inodes_used": "452245",
-          "inodes_available": "2603371",
+          "inodes_used": "452675",
+          "inodes_available": "2602941",
           "inodes_percent_used": "15%",
           "fs_type": "ext4",
           "mount_options": [
@@ -2089,12 +2091,12 @@
         },
         "/dev/shm": {
           "kb_size": "4046388",
-          "kb_used": "528044",
-          "kb_available": "3518344",
-          "percent_used": "14%",
+          "kb_used": "391704",
+          "kb_available": "3654684",
+          "percent_used": "10%",
           "total_inodes": "1011597",
-          "inodes_used": "498",
-          "inodes_available": "1011099",
+          "inodes_used": "518",
+          "inodes_available": "1011079",
           "inodes_percent_used": "1%",
           "fs_type": "tmpfs",
           "mount_options": [
@@ -2148,12 +2150,12 @@
         },
         "/home": {
           "kb_size": "895316600",
-          "kb_used": "79429484",
-          "kb_available": "770384604",
+          "kb_used": "79749984",
+          "kb_available": "770064104",
           "percent_used": "10%",
           "total_inodes": "56860672",
-          "inodes_used": "481191",
-          "inodes_available": "56379481",
+          "inodes_used": "483804",
+          "inodes_available": "56376868",
           "inodes_percent_used": "1%",
           "fs_type": "ext4",
           "mount_options": [
@@ -2188,12 +2190,12 @@
         },
         "/run/user/1000": {
           "kb_size": "809280",
-          "kb_used": "56",
-          "kb_available": "809224",
+          "kb_used": "64",
+          "kb_available": "809216",
           "percent_used": "1%",
           "total_inodes": "1011597",
-          "inodes_used": "32",
-          "inodes_available": "1011565",
+          "inodes_used": "34",
+          "inodes_available": "1011563",
           "inodes_percent_used": "1%",
           "fs_type": "tmpfs",
           "mount_options": [
@@ -2540,8 +2542,8 @@
           "percent_used": "0%",
           "mount": "/dev",
           "total_inodes": "1006818",
-          "inodes_used": "608",
-          "inodes_available": "1006210",
+          "inodes_used": "605",
+          "inodes_available": "1006213",
           "inodes_percent_used": "1%",
           "fs_type": "devtmpfs",
           "mount_options": [
@@ -2556,13 +2558,13 @@
         "tmpfs,/run": {
           "device": "tmpfs",
           "kb_size": "809280",
-          "kb_used": "10052",
-          "kb_available": "799228",
+          "kb_used": "10060",
+          "kb_available": "799220",
           "percent_used": "2%",
           "mount": "/run",
           "total_inodes": "1011597",
-          "inodes_used": "939",
-          "inodes_available": "1010658",
+          "inodes_used": "941",
+          "inodes_available": "1010656",
           "inodes_percent_used": "1%",
           "fs_type": "tmpfs",
           "mount_options": [
@@ -2577,13 +2579,13 @@
         "/dev/sda3,/": {
           "device": "/dev/sda3",
           "kb_size": "47929956",
-          "kb_used": "13233500",
-          "kb_available": "32238668",
-          "percent_used": "30%",
+          "kb_used": "13099332",
+          "kb_available": "32372836",
+          "percent_used": "29%",
           "mount": "/",
           "total_inodes": "3055616",
-          "inodes_used": "452245",
-          "inodes_available": "2603371",
+          "inodes_used": "452675",
+          "inodes_available": "2602941",
           "inodes_percent_used": "15%",
           "fs_type": "ext4",
           "mount_options": [
@@ -2597,13 +2599,13 @@
         "tmpfs,/dev/shm": {
           "device": "tmpfs",
           "kb_size": "4046388",
-          "kb_used": "528044",
-          "kb_available": "3518344",
-          "percent_used": "14%",
+          "kb_used": "391704",
+          "kb_available": "3654684",
+          "percent_used": "10%",
           "mount": "/dev/shm",
           "total_inodes": "1011597",
-          "inodes_used": "498",
-          "inodes_available": "1011099",
+          "inodes_used": "518",
+          "inodes_available": "1011079",
           "inodes_percent_used": "1%",
           "fs_type": "tmpfs",
           "mount_options": [
@@ -2653,13 +2655,13 @@
         "/dev/sda6,/home": {
           "device": "/dev/sda6",
           "kb_size": "895316600",
-          "kb_used": "79429484",
-          "kb_available": "770384604",
+          "kb_used": "79749984",
+          "kb_available": "770064104",
           "percent_used": "10%",
           "mount": "/home",
           "total_inodes": "56860672",
-          "inodes_used": "481191",
-          "inodes_available": "56379481",
+          "inodes_used": "483804",
+          "inodes_available": "56376868",
           "inodes_percent_used": "1%",
           "fs_type": "ext4",
           "mount_options": [
@@ -2691,13 +2693,13 @@
         "tmpfs,/run/user/1000": {
           "device": "tmpfs",
           "kb_size": "809280",
-          "kb_used": "56",
-          "kb_available": "809224",
+          "kb_used": "64",
+          "kb_available": "809216",
           "percent_used": "1%",
           "mount": "/run/user/1000",
           "total_inodes": "1011597",
-          "inodes_used": "32",
-          "inodes_available": "1011565",
+          "inodes_used": "34",
+          "inodes_available": "1011563",
           "inodes_percent_used": "1%",
           "fs_type": "tmpfs",
           "mount_options": [
@@ -3889,11 +3891,11 @@
       }
     },
     "current_user": "brasilct",
-    "uptime_seconds": 15410,
-    "uptime": "4 hours 16 minutes 50 seconds",
-    "idletime_seconds": 54002,
-    "idletime": "15 hours 00 minutes 02 seconds",
-    "ohai_time": 1463518460.0986135,
+    "uptime_seconds": 86402,
+    "uptime": "1 day 00 hours 00 minutes 02 seconds",
+    "idletime_seconds": 293378,
+    "idletime": "3 days 09 hours 29 minutes 38 seconds",
+    "ohai_time": 1463589452.6788287,
     "cloud_v2": null,
     "keys": {
       "ssh": {
@@ -5450,7 +5452,7 @@
         "version": "1.56-2"
       },
       "libarchive13:amd64": {
-        "version": "3.1.2-11build1"
+        "version": "3.1.2-11ubuntu0.16.04.1"
       },
       "libarmadillo5": {
         "version": "1:5.200.1+dfsg-1"
@@ -7340,7 +7342,7 @@
         "version": "1.13.2+dfsg-5"
       },
       "libksba8:amd64": {
-        "version": "1.3.3-1"
+        "version": "1.3.3-1ubuntu0.16.04.1"
       },
       "liblangtag-common": {
         "version": "0.5.7-2ubuntu1"
@@ -7673,7 +7675,7 @@
         "version": "6.0+20160213-1ubuntu1"
       },
       "libndp0:amd64": {
-        "version": "1.4-2"
+        "version": "1.4-2ubuntu0.16.04.1"
       },
       "libneon27-gnutls:amd64": {
         "version": "0.30.1-3build1"
@@ -11078,7 +11080,7 @@
         "version": "4.3.0.37-1"
       },
       "slack-desktop": {
-        "version": "2.0.5"
+        "version": "2.0.6"
       },
       "snapd": {
         "version": "2.0.3"
