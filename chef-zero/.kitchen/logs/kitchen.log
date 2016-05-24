@@ -1,0 +1,26 @@
+E, [2016-05-24T16:43:42.170473 #4635] ERROR -- Kitchen: ------Exception-------
+E, [2016-05-24T16:43:42.170536 #4635] ERROR -- Kitchen: Class: Kitchen::UserError
+E, [2016-05-24T16:43:42.170552 #4635] ERROR -- Kitchen: Message: Kitchen YAML file /home/brasilct/learningchef/chef-zero/.kitchen.yml does not exist.
+E, [2016-05-24T16:43:42.170565 #4635] ERROR -- Kitchen: ------Backtrace-------
+E, [2016-05-24T16:43:42.170575 #4635] ERROR -- Kitchen: /home/brasilct/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/test-kitchen-1.8.0/lib/kitchen/loader/yaml.rb:74:in `read'
+E, [2016-05-24T16:43:42.170590 #4635] ERROR -- Kitchen: /home/brasilct/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/test-kitchen-1.8.0/lib/kitchen/config.rb:149:in `data'
+E, [2016-05-24T16:43:42.170600 #4635] ERROR -- Kitchen: /home/brasilct/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/test-kitchen-1.8.0/lib/kitchen/config.rb:128:in `suites'
+E, [2016-05-24T16:43:42.170609 #4635] ERROR -- Kitchen: /home/brasilct/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/test-kitchen-1.8.0/lib/kitchen/config.rb:179:in `filter_instances'
+E, [2016-05-24T16:43:42.170618 #4635] ERROR -- Kitchen: /home/brasilct/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/test-kitchen-1.8.0/lib/kitchen/config.rb:138:in `build_instances'
+E, [2016-05-24T16:43:42.170628 #4635] ERROR -- Kitchen: /home/brasilct/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/test-kitchen-1.8.0/lib/kitchen/config.rb:114:in `instances'
+E, [2016-05-24T16:43:42.170637 #4635] ERROR -- Kitchen: /home/brasilct/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/test-kitchen-1.8.0/lib/kitchen/command.rb:115:in `filtered_instances'
+E, [2016-05-24T16:43:42.170646 #4635] ERROR -- Kitchen: /home/brasilct/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/test-kitchen-1.8.0/lib/kitchen/command.rb:145:in `parse_subcommand'
+E, [2016-05-24T16:43:42.170655 #4635] ERROR -- Kitchen: /home/brasilct/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/test-kitchen-1.8.0/lib/kitchen/command/list.rb:32:in `call'
+E, [2016-05-24T16:43:42.170664 #4635] ERROR -- Kitchen: /home/brasilct/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/test-kitchen-1.8.0/lib/kitchen/cli.rb:56:in `perform'
+E, [2016-05-24T16:43:42.170678 #4635] ERROR -- Kitchen: /home/brasilct/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/test-kitchen-1.8.0/lib/kitchen/cli.rb:116:in `list'
+E, [2016-05-24T16:43:42.170687 #4635] ERROR -- Kitchen: /home/brasilct/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+E, [2016-05-24T16:43:42.170696 #4635] ERROR -- Kitchen: /home/brasilct/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+E, [2016-05-24T16:43:42.170705 #4635] ERROR -- Kitchen: /home/brasilct/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/test-kitchen-1.8.0/lib/kitchen/cli.rb:321:in `invoke_task'
+E, [2016-05-24T16:43:42.170714 #4635] ERROR -- Kitchen: /home/brasilct/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+E, [2016-05-24T16:43:42.170723 #4635] ERROR -- Kitchen: /home/brasilct/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+E, [2016-05-24T16:43:42.170732 #4635] ERROR -- Kitchen: /home/brasilct/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/test-kitchen-1.8.0/bin/kitchen:13:in `block in <top (required)>'
+E, [2016-05-24T16:43:42.170741 #4635] ERROR -- Kitchen: /home/brasilct/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/test-kitchen-1.8.0/lib/kitchen/errors.rb:154:in `with_friendly_errors'
+E, [2016-05-24T16:43:42.170754 #4635] ERROR -- Kitchen: /home/brasilct/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/test-kitchen-1.8.0/bin/kitchen:13:in `<top (required)>'
+E, [2016-05-24T16:43:42.170763 #4635] ERROR -- Kitchen: /home/brasilct/.rbenv/versions/2.3.0/bin/kitchen:23:in `load'
+E, [2016-05-24T16:43:42.170772 #4635] ERROR -- Kitchen: /home/brasilct/.rbenv/versions/2.3.0/bin/kitchen:23:in `<main>'
+E, [2016-05-24T16:43:42.170789 #4635] ERROR -- Kitchen: ----------------------

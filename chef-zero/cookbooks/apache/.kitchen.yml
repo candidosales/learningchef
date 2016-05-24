@@ -1,0 +1,31 @@
+---
+driver:
+  name: vagrant
+
+provisioner:
+  name: chef_zero
+  environments_path: ../../environments
+  data_bags_path: ../../data_bags
+
+# Uncomment the following verifier to leverage Inspec instead of Busser (the
+# default verifier)
+# verifier:
+#   name: inspec
+
+platforms:
+  - name: ubuntu-16.04
+    driver:
+      box: ubuntu/xenial64 
+      box_url: ubuntu/xenial64
+
+suites:
+  - name: prod
+    provisioner:
+      client_rb:
+        environment: production
+    driver:
+      network:
+      - ["private_network", {ip: "192.168.33.15"}]
+    run_list:
+      - recipe[apache::default]
+    attributes:
