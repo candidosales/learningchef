@@ -1,0 +1,7 @@
+source 'https://supermarket.chef.io'
+
+metadata
+
+cookbook 'apt', '~> 3.0.0'
+cookbook 'poise-ruby-build', '~> 1.0.2'
+cookbook 'nodejs', '~> 2.4.4'

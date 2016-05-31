@@ -1,0 +1,7 @@
+name 'brct'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures brct'
+long_description 'Installs/Configures brct'
+version '0.1.0'
