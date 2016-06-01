@@ -40,3 +40,19 @@ bundle install
 ```
 berks install
 ```
+
+# Tests
+
+## Test recipe
+```
+kitchen verify
+```
+
+## Foodcritic
+### Foodcritic is a helpful lint tool you can use to check your Chef cookbooks for common problems
+```
+foodcritic .
+```
+
+
+http://jakshi.com/blog/2014/05/12/accessing-chef-attributes-in-serverspec-tests/

@@ -27,8 +27,7 @@ end
 include_recipe 'rbenv::default'
 include_recipe 'rbenv::ruby_build'
 
-rbenv_ruby "#{node['ruby']['version']}" do
-  ruby_version "#{node['ruby']['version']}"
+rbenv_ruby node['ruby']['version'] do
   global true
 end
 
