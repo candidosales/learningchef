@@ -12,7 +12,7 @@ end
 packages = [
             # 'curl',
             # 'build-essential',
-            'xz-utils','make', 'g++', 
+            # 'xz-utils','make', 'g++', 
             'libmysqld-dev', 'libmysqlclient-dev',
             # 'libreadline-dev', 'libyaml-dev', 'libxml2-dev', 'libxslt1-dev', 'libcurl4-openssl-dev',
             # 'autoconf', 'automake', 'autotools-dev', 'g++', 'g++-4.8', 'libbison-dev',
