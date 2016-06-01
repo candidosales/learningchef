@@ -4,4 +4,7 @@ maintainer_email 'candido.sales@brasilct.com'
 license 'all_rights'
 description 'Installs/Configures brct'
 long_description 'Installs/Configures brct'
-version '0.1.0'
+version '1.0.0'
+
+depends 'nodejs', '~> 2.4.4'
+depends 'rbenv'

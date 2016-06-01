@@ -10,13 +10,13 @@ end
 
 # Install Packages
 packages = [
-            'curl',
-            'ruby-dev',
-            'zlib1g-dev',
-            'build-essential', 'nodejs',
-            'python-software-properties',
+            # 'curl',
+            # 'build-essential',
+            'xz-utils','make', 'g++', 
             'libmysqld-dev', 'libmysqlclient-dev',
-            'libssl-dev', 'libreadline-dev', 'libyaml-dev', 'libxml2-dev', 'libxslt1-dev', 'libcurl4-openssl-dev'
+            # 'libreadline-dev', 'libyaml-dev', 'libxml2-dev', 'libxslt1-dev', 'libcurl4-openssl-dev',
+            # 'autoconf', 'automake', 'autotools-dev', 'g++', 'g++-4.8', 'libbison-dev',
+            # 'libc6-dev', 'libsigsegv2', 'libssl-doc', 'libstdc++-4.8-dev','linux-libc-dev'
             ]
 
 packages.each do |name|
@@ -34,9 +34,22 @@ cookbook_file '/etc/gemrc' do
 end
 
 # Install Ruby
-ruby_runtime "Install Ruby #{node['ruby']['version']}" do
-  provider :ruby_build
-  version node['ruby']['version']
+# ruby_runtime "Install Ruby #{node['ruby']['version']}" do
+#   provider :ruby_build
+#   version node['ruby']['version']
+# end
+
+
+# rbenv_ruby "#{node['ruby']['version']}" do
+#   action :reinstall
+# end
+
+include_recipe 'rbenv::default'
+include_recipe 'rbenv::ruby_build'
+
+rbenv_ruby "#{node['ruby']['version']}" do
+  ruby_version "#{node['ruby']['version']}"
+  global true
 end
 
 gem_package 'bundler' do
