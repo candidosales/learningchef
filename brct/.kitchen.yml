@@ -22,3 +22,5 @@ suites:
     run_list:
       - recipe[brct::default]
     attributes:
+      bundler:
+        version: '1.12.5'       

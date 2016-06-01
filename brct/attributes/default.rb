@@ -10,5 +10,5 @@ node.default['nodejs']['binary']['checksum'] = 'ceff5e429dca770904a1fdbb5e7e53ab
 node.default['ruby']['version'] = '2.3.1'
 
 ### Gems
-node.default['bundler']['version'] = '1.11'
+node.default['bundler']['version'] = '1.11.0'
 node.default['rake']['version'] = '11.1.2'

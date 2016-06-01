@@ -7,4 +7,4 @@ long_description 'Installs/Configures brct'
 version '1.0.0'
 
 depends 'nodejs', '~> 2.4.4'
-depends 'rbenv'
+depends 'rbenv', '~> 1.7.1'
