@@ -1,6 +1,6 @@
 name 'brct'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Cândido Sales Gomes'
+maintainer_email 'candido.sales@brasilct.com'
 license 'all_rights'
 description 'Installs/Configures brct'
 long_description 'Installs/Configures brct'
